@@ -1,0 +1,16 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">hello, world</view>
+        <view class="page__desc">Gospely 小程序可视化开发工具，让小程序无边界</view>
+    </view>
+    <view class="page__bd page__bd_spacing">
+    </view>
+    <view class="page__ft">
+        <view class="weui-footer weui-footer_fixed-bottom">
+            <view class="weui-footer__links">
+                <navigator url="http://gospely.com" class="weui-footer__link">Gospely团队</navigator>
+            </view>
+            <view class="weui-footer__text">Copyright © 2016 gospely.com</view>
+        </view>
+    </view>
+</view>
